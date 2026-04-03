@@ -1,2 +1,3 @@
 # Projec-ignite
 A collection of my coding projects and practice work .
+Author - Vedant
