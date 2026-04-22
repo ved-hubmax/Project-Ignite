@@ -1,0 +1,97 @@
+{
+  "last_command": "open spotify",
+  "last_urls": [
+    "https://web.whatsapp.com",
+    "https://web.whatsapp.com",
+    "https://www.youtube.com",
+    "https://www.instagram.com",
+    "https://www.youtube.com",
+    "https://www.youtube.com",
+    "https://www.instagram.com",
+    "https://www.youtube.com",
+    "https://www.youtube.com",
+    "https://www.spotify.com/"
+  ],
+  "history": [
+    {
+      "cmd": "send whtasapp message to jayesh saying hello",
+      "time": "2026-04-21T18:48:51.233454"
+    },
+    {
+      "cmd": "python -u \"c:\\users\\sonal thorat\\desktop\\pyhton all chapters\\mega project pro jarvis\\mian.py\"",
+      "time": "2026-04-21T18:49:33.773945"
+    },
+    {
+      "cmd": "python -u \"c:\\users\\sonal thorat\\desktop\\pyhton all chapters\\mega project pro jarvis\\mian.py\"",
+      "time": "2026-04-21T18:49:34.790775"
+    },
+    {
+      "cmd": "python -u \"c:\\users\\sonal thorat\\desktop\\pyhton all chapters\\mega project pro jarvis\\mian.py\"",
+      "time": "2026-04-21T18:49:35.889655"
+    },
+    {
+      "cmd": "send whatsapp message to jayesh saying hello",
+      "time": "2026-04-21T18:50:12.927642"
+    },
+    {
+      "cmd": "hey",
+      "time": "2026-04-22T13:54:40.616225"
+    },
+    {
+      "cmd": "hey",
+      "time": "2026-04-22T13:54:42.827735"
+    },
+    {
+      "cmd": "hello",
+      "time": "2026-04-22T13:54:45.691923"
+    },
+    {
+      "cmd": "python -u \"c:\\users\\sonal thorat\\desktop\\pyhton all chapters\\mega project pro jarvis\\mian.py\"",
+      "time": "2026-04-22T13:54:54.568668"
+    },
+    {
+      "cmd": "open youtube",
+      "time": "2026-04-22T14:31:39.396556"
+    },
+    {
+      "cmd": "send a message on whatsapp to",
+      "time": "2026-04-22T14:32:17.210807"
+    },
+    {
+      "cmd": "send a message on whatsapp to jay singh hello",
+      "time": "2026-04-22T14:32:29.903833"
+    },
+    {
+      "cmd": "open instagram",
+      "time": "2026-04-22T14:32:59.420876"
+    },
+    {
+      "cmd": "play music",
+      "time": "2026-04-22T14:34:27.633675"
+    },
+    {
+      "cmd": "open youtube",
+      "time": "2026-04-22T14:35:11.535722"
+    },
+    {
+      "cmd": "open youtube",
+      "time": "2026-04-22T14:36:10.132867"
+    },
+    {
+      "cmd": "open instagram",
+      "time": "2026-04-22T14:37:21.095113"
+    },
+    {
+      "cmd": "open youtube",
+      "time": "2026-04-22T14:37:38.606710"
+    },
+    {
+      "cmd": "open youtube",
+      "time": "2026-04-22T14:37:56.524632"
+    },
+    {
+      "cmd": "open spotify",
+      "time": "2026-04-22T14:39:06.671968"
+    }
+  ]
+}
